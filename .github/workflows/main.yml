@@ -13,4 +13,4 @@ jobs:
           firebaseServiceAccount: '${{ secrets.FIREBASE_TOKEN }}'
           channelId: live
           projectId: fitness-pro-a3331
-          site: fitnesss
+          target: fitnesss
